@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  display: grid;
+  gap: 2rem;
+  justify-items: start;
+}
